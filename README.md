@@ -78,3 +78,59 @@ Syntax: toString()
 
 # splice
 ![Tux, the Linux mascot](/images/splice().png)
+
+# array methods callbacks
+
+# map
+![Tux, the Linux mascot](/images/map().png)
+
+# forEach
+![Tux, the Linux mascot](/images/forEach().png)
+
+# find
+![Tux, the Linux mascot](/images/find().png)
+
+# reduce
+The reduce() method executes a user-supplied "reducer" callback function on each element
+of the array, in order, passing in the return value from the calculation on the preceding
+element. The final result of running the reducer across all elements of the array is a single
+value.
+
+![Tux, the Linux mascot](/images/reduce.png)
+
+# filter
+The filter() method creates a shallow copy of a portion of a given array, filtered down to
+just the elements from the given array that pass the test implemented by the provided
+function. 
+
+![Tux, the Linux mascot](/images/filter.png)
+
+# toSorted
+The toSorted() method of Array instances is the copying version of the sort() method.
+It returns a new array with the elements sorted in ascending order.
+
+![Tux, the Linux mascot](/images/toSorted.png)
+
+# Destructuring
+The destructuring assignment syntax is a JavaScript expression that makes it
+possible to unpack values from arrays, or properties from objects, into distinct
+variables.
+
+![Tux, the Linux mascot](/images/destructuring.png)
+
+# spread
+The spread (...) syntax allows an iterable, such as an array or string, to be
+expanded in places where zero or more arguments (for function calls) or
+elements (for array literals) are expected. In an object literal, the spread syntax
+enumerates the properties of an object and adds the key-value pairs to the object
+being created.
+
+![Tux, the Linux mascot](/images/spread.png)
+
+# rest
+The rest parameter syntax allows a function to accept an indefinite
+number of arguments as an array.
+
+![Tux, the Linux mascot](/images/rest.png)
+
+# THANKS
